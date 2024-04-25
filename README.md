@@ -41,9 +41,8 @@ dev.code()
 
 ## Connect With Me
 
-- **Email:** ai_developer@notabot.com
-- **LinkedIn:** [AI Developer](https://www.linkedin.com)
-- **GitHub Stats:** ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+- **Email:** chengzhe8919@gmail.com
+- **Website:** [AI Developer](https://www.cheng-zhe.com)
 
 ## Final Thought
 
