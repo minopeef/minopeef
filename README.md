@@ -39,11 +39,6 @@ dev.code()
 - Remember, stack overflow is your best friend. Someone, somewhere has definitely had the same error message.
 - And lastly, rubber ducks are great listeners. Explain your code to one.
 
-## Connect With Me
-
-- **Email:** chengzhe8919@gmail.com
-- **Website:** [AI Developer](https://www.cheng-zhe.com)
-
 ## Final Thought
 
 "If AI is the answer, you're probably asking the wrong question - unless it's about sorting algorithms or your next coffee."
