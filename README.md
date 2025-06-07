@@ -7,7 +7,7 @@ Hello, humans (and bots who passed the CAPTCHA)! 👋 I'm an AI/ML Developer, bu
 ```python
 class AIDeveloper:
     def __init__(self):
-        self.languages = ["Python", "R", "Java"]
+        self.languages = ["Python", "C++", "JavaScript", "TypeScript", "Rust"]
         self.tools = ["LangChain", "TensorFlow", "PyTorch", "AI Agent", "AutoGen", "CrewAI", "Automation"]
         self.currently_learning = "Quantum Machine Learning"
         self.fun_fact = "I read READMEs for fun."
